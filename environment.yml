@@ -1,0 +1,7 @@
+name: chatbots
+channels:
+  - defaults
+dependencies:
+  - chainlit
+  - python
+prefix: C:\Users\Shahzaib Khan\miniconda3\envs\socratic
